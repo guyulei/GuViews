@@ -6,8 +6,12 @@
     android:layout_height="match_parent"
     tools:context="com.guyulei.guviews.MainActivity">
 
-    <com.guyulei.guviews.view.GuViewOne
+    <!--<com.guyulei.guviews.view.GuViewOne
         android:layout_width="match_parent"
-        android:layout_height="match_parent"/>
+        android:layout_height="match_parent"/>-->
+
+    <com.guyulei.guviews.view.GuViewTwo
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
 
 </LinearLayout>
