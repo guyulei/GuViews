@@ -14,7 +14,11 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>-->
 
-    <com.guyulei.guviews.view.GuViewThree
+   <!-- <com.guyulei.guviews.view.GuViewThree
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>-->
+
+    <com.guyulei.guviews.view.GuViewFour
         android:layout_width="match_parent"
         android:layout_height="match_parent"/>
 </LinearLayout>
